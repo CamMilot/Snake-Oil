@@ -1,0 +1,239 @@
+acid – Elixir	adventure – Party Potion	air – Elixir
+alarm – Snake Oil	alcohol – Snake Oil	alert – Elixir
+alien – Elixir	anchor – Elixir	angel – Elixir
+anger – Snake Oil	animal – Snake Oil	antenna – Elixir
+armor – Snake Oil	art – Snake Oil	avalanche – Elixir
+award – Elixir	axe – Party Potion	baby – Snake Oil
+bacon – Party Potion	bacteria – Snake Oil	bag – Snake Oil
+bait – Party Potion	ball – Snake Oil	balloon – Snake Oil
+banana – Snake Oil	bandana – Elixir	banner – Elixir
+bar – Elixir	barricade – Elixir	basket – Snake Oil
+bath – Elixir	battle – Elixir	bazooka – Party Potion
+beach – Snake Oil	beads – Elixir	beard – Snake Oil
+bed – Snake Oil	bell – Snake Oil	belly – Snake Oil
+belt – Snake Oil	berry – Elixir	bib – Party Potion
+bicycle – Snake Oil	bikini – Elixir	biscuit – Elixir
+bladder – Elixir	blanket – Snake Oil	blender – Elixir
+blimp – Elixir	blizzard – Party Potion	blood – Snake Oil
+board – Elixir	boat – Snake Oil	body – Snake Oil
+bomb – Snake Oil	bone – Snake Oil	bonfire – Elixir
+booger – Snake Oil	book – Snake Oil	boomerang – Elixir
+boots – Snake Oil	bottle – Snake Oil	bowl – Snake Oil
+box – Snake Oil	boy – Party Potion	bra – Snake Oil
+bracelet – Snake Oil	brain – Snake Oil	brick – Snake Oil
+bridge – Snake Oil	broom – Snake Oil	brush – Snake Oil
+bubble – Party Potion	bucket – Party Potion	buckle – Elixir
+buddy – Elixir	bullet – Elixir	bunny – Elixir
+burp – Snake Oil	bus – Party Potion	bush – Snake Oil
+butt – Party Potion	butter – Snake Oil	butterfly – Elixir
+button – Snake Oil	buzzer – Elixir	cactus – Elixir
+caffine – Elixir	cage – Snake Oil	camera – Snake Oil
+candle – Party Potion	candy – Snake Oil	cane – Snake Oil
+cannon – Snake Oil	canoe – Elixir	canteen – Elixir
+cap – Party Potion	cape – Snake Oil	car – Elixir
+card – Snake Oil	carpet – Snake Oil	carrot – Elixir
+case – Elixir	catapult – Elixir	cave – Snake Oil
+chain – Snake Oil	chair – Party Potion	chalk – Party Potion
+charm – Elixir	cheese – Snake Oil	chest – Elixir
+chicken – Elixir	chili – Elixir	chip – Elixir
+chocolate – Elixir	circus – Elixir	clamp – Elixir
+claw – Elixir	cliff – Snake Oil	cloak – Snake Oil
+clock – Snake Oil	closet – Snake Oil	cloud – Snake Oil
+club – Snake Oil	coat – Party Potion	coffin – Snake Oil
+coin – Elixir	collar – Elixir	compass – Elixir
+computer – Snake Oil	concert – Elixir	cone – Elixir
+cookie – Party Potion	corpse – Snake Oil	costume – Snake Oil
+couch – Snake Oil	coupon – Elixir	courage – Elixir
+cream – Snake Oil	crowd – Snake Oil	crown – Snake Oil
+crystal – Elixir	cuddle – Elixir	cup – Snake Oil
+curse – Party Potion	curtain – Party Potion	cushion – Elixir
+dagger – Elixir	dance – Snake Oil	danger – Snake Oil
+dare – Elixir	dart – Elixir	death – Snake Oil
+debt – Snake Oil	decoy – Elixir	desire – Snake Oil
+desk – Snake Oil	detector – Elixir	diamond – Snake Oil
+diaper – Snake Oil	diary – Party Potion	Dinosaur – Elixir
+dirt – Snake Oil	discipline – Party Potion	disease – Snake Oil
+dispenser – Elixir	doll – Snake Oil	dolphin – Elixir
+donkey – Elixir	doom – Elixir	door – Elixir
+doubt – Snake Oil	dragon – Party Potion	dream – Snake Oil
+dress – Snake Oil	drill – Elixir	drone – Elixir
+drool – Elixir	drum – Snake Oil	dumpster – Party Potion
+dung – Elixir	dungeon – Elixir	dust – Party Potion
+ear – Snake Oil	egg – Elixir	elephant – Snake Oil
+emergency – Elixir	energy – Snake Oil	envelope – Elixir
+envy – Elixir	eraser – Snake Oil	escape – Party Potion
+excuse – Snake Oil	exercise – Snake Oil	eye – Elixir
+face – Party Potion	fact – Party Potion	factory – Elixir
+failure – Elixir	fairy – Elixir	faith – Snake Oil
+family – Snake Oil	fan – Snake Oil	fanny – Elixir
+fantasy – Elixir	farm – Elixir	fart – Snake Oil
+fate – Elixir	faucet – Elixir	fear – Snake Oil
+feather – Snake Oil	fence – Elixir	fever – Elixir
+film – Elixir	finger – Snake Oil	fire – Snake Oil
+fish – Snake Oil	fitness – Elixir	flag – Snake Oil
+flame – Party Potion	flesh – Elixir	floss – Elixir
+flower – Snake Oil	fluid – Snake Oil	flute – Elixir
+foam – Elixir	fog – Elixir	food – Snake Oil
+foot – Snake Oil	forest – Party Potion	fork – Elixir
+fountain – Snake Oil	freedom – Snake Oil	friend – Snake Oil
+friendship – Elixir	fruit – Elixir	fuel – Elixir
+funeral – Elixir	fur – Party Potion	future – Snake Oil
+fuzz – Elixir	galaxy – Party Potion	game – Snake Oil
+garbage – Snake Oil	garden – Snake Oil	gas – Snake Oil
+gem – Elixir	germ – Elixir	geyser – Elixir
+ghost – Party Potion	giggle – Snake Oil	glasses – Snake Oil
+glitter – Snake Oil	glory – Elixir	glove – Snake Oil
+glue – Snake Oil	goggles – Snake Oil	gorilla – Party Potion
+gossip – Elixir	gown – Elixir	grass – Snake Oil
+grave – Party Potion	gravity – Elixir	gravy – Elixir
+grease – Elixir	greed – Snake Oil	grenade – Snake Oil
+grief – Elixir	grill – Elixir	guilt – Party Potion
+gum – Snake Oil	gun – Snake Oil	hair – Snake Oil
+hammer – Snake Oil	hammock – Elixir	hamster – Elixir
+hand – Snake Oil	handcuffs – Snake Oil	handle – Snake Oil
+harmonica – Elixir	harmony – Elixir	harness – Elixir
+hat – Snake Oil	hatchet – Elixir	head – Snake Oil
+heart – Snake Oil	heaven – Snake Oil	hell – Snake Oil
+helmet – Snake Oil	hole – Elixir	honey – Elixir
+hood – Snake Oil	hoodie – Elixir	hook – Snake Oil
+hoop – Elixir	hope – Snake Oil	hormone – Snake Oil
+horn – Snake Oil	horse – Snake Oil	hose – Snake Oil
+house – Snake Oil	hug – Snake Oil	hurricane – Elixir
+ice – Snake Oil	idiot – Elixir	ink – Elixir
+insect – Snake Oil	island – Snake Oil	jacket – Snake Oil
+Jar – Party Potion	jello – Elixir	jelly – Party Potion
+jewel – Party Potion	jewelry – Elixir	joke – Snake Oil
+joy – Snake Oil	juice – Snake Oil	jungle – Elixir
+junk – Snake Oil	karate – Elixir	key – Snake Oil
+kiss – Snake Oil	kit – Snake Oil	kite – Snake Oil
+kitten – Party Potion	knife – Snake Oil	lace – Snake Oil
+ladder – Snake Oil	lady – Elixir	lake – Party Potion
+lamp – Snake Oil	lantern – Party Potion	lasso – Elixir
+laugh – Elixir	lava – Snake Oil	leaf – Elixir
+leash – Snake Oil	leg – Snake Oil	light – Snake Oil
+lightning – Snake Oil	lip – Snake Oil	lock – Snake Oil
+locker – Party Potion	lotion – Elixir	love – Snake Oil
+machine – Snake Oil	magic – Party Potion	magnet – Snake Oil
+man – Snake Oil	map – Snake Oil	marker – Elixir
+marriage – Elixir	marshmallow – Elixir	mask – Snake Oil
+massage – Party Potion	mattress – Elixir	maze – Elixir
+meat – Snake Oil	medicine – Elixir	memory – Party Potion
+message – Elixir	milk – Party Potion	mint – Elixir
+miracle – Elixir	mirror – Snake Oil	missile – Elixir
+mist – Party Potion	mistake – Snake Oil	mitten – Elixir
+money – Snake Oil	monkey – Snake Oil	monster – Elixir
+mood – Party Potion	moon – Snake Oil	mop – Party Potion
+mosquito – Party Potion	motor – Elixir	mountain – Snake Oil
+mouth – Snake Oil	movie – Snake Oil	mud – Elixir
+mug – Party Potion	murder – Snake Oil	muscle – Snake Oil
+music – Snake Oil	musket – Elixir	mustache – Elixir
+mystery – Elixir	nap – Party Potion	napkin – Snake Oil
+needle – Elixir	nest – Snake Oil	net – Snake Oil
+news – Snake Oil	night – Snake Oil	nightmare – Party Potion
+noise – Snake Oil	noodle – Party Potion	nose – Snake Oil
+ocean – Snake Oil	odor – Snake Oil	oil – Snake Oil
+oven – Snake Oil	oxygen – Elixir	pad – Snake Oil
+paddle – Elixir	pail – Elixir	pain – Snake Oil
+paint – Snake Oil	pajamas – Snake Oil	panda – Elixir
+pants – Party Potion	paper – Snake Oil	parachute – Party Potion
+parade – Snake Oil	parrot – Party Potion	party – Snake Oil
+passion – Party Potion	paste – Elixir	patch – Snake Oil
+paw – Snake Oil	peace – Party Potion	pearl – Elixir
+pen – Snake Oil	penalty – Elixir	pepper – Elixir
+perfume – Elixir	permit – Elixir	pet – Elixir
+phone – Snake Oil	photo – Snake Oil	pickle – Elixir
+picnic – Elixir	picture – Elixir	pill – Snake Oil
+pillow – Snake Oil	pimple – Party Potion	pin – Elixir
+pinata – Elixir	pipe – Snake Oil	pit – Elixir
+pity – Elixir	plate – Elixir	pleasure – Snake Oil
+plug – Elixir	plunger – Party Potion	pocket – Snake Oil
+poison – Party Potion	pole – Party Potion	poncho – Elixir
+pool – Snake Oil	poop – Snake Oil	popcorn – Elixir
+popsicle – Elixir	poster – Snake Oil	potion – Elixir
+potty – Party Potion	pouch – Elixir	powder – Snake Oil
+prank – Elixir	prayer – Snake Oil	pregnancy – Elixir
+pride – Elixir	prize – Snake Oil	probe – Elixir
+promise – Elixir	protein – Elixir	pudding – Elixir
+puddle – Party Potion	puke – Elixir	pump – Snake Oil
+pumpkin – Elixir	puppet – Snake Oil	puppy – Elixir
+purse – Party Potion	putty – Party Potion	puzzle – Elixir
+radar – Snake Oil	radiation – Elixir	radio – Party Potion
+raft – Snake Oil	rag – Elixir	rage – Elixir
+rain – Snake Oil	rake – Snake Oil	razor – Snake Oil
+reality – Elixir	recipe – Elixir	regret – Snake Oil
+remote – Snake Oil	rescue – Party Potion	revenge – Snake Oil
+ribbon – Party Potion	ring – Snake Oil	riot – Elixir
+river – Snake Oil	road – Snake Oil	robe – Party Potion
+robot – Snake Oil	rock – Snake Oil	rocket – Snake Oil
+rodeo – Elixir	romance – Elixir	rope – Snake Oil
+rubber – Snake Oil	rug – Party Potion	rumor – Snake Oil
+sack – Elixir	saddle – Elixir	safety – Snake Oil
+salad – Elixir	sand – Snake Oil	Sandwich – Party Potion
+satellite – Party Potion	sauce – Party Potion	sauna –
+sausage – Elixir	saw – Elixir	scarf – Snake Oil
+school – Snake Oil	scoop – Elixir	scooter – Party Potion
+scream – Snake Oil	sculpture – Elixir	seat – Snake Oil
+secret – Snake Oil	security – Party Potion	seed – Snake Oil
+sensor – Elixir	shadow – Snake Oil	shame – Snake Oil
+shampoo – Party Potion	sheet – Elixir	shell – Snake Oil
+shield – Snake Oil	shirt – Snake Oil	shoes – Elixir
+shovel – Snake Oil	shower – Snake Oil	shrine – Elixir
+signal – Elixir	silence – Snake Oil	siren – Elixir
+skeleton – Elixir	skin – Snake Oil	skirt – Party Potion
+skull – Party Potion	skunk – Elixir	sky – Snake Oil
+sled – Party Potion	sleep – Snake Oil	slide – Snake Oil
+slime – Snake Oil	slipper – Party Potion	smile – Party Potion
+smoke – Party Potion	smoothie – Elixir	snake – Snake Oil
+snore – Elixir	snot – Party Potion	snow – Snake Oil
+soap – Snake Oil	socks – Snake Oil	sofa – Elixir
+song – Elixir	soup – Party Potion	souvenir – Elixir
+space – Snake Oil	spaghetti – Elixir	spear – Snake Oil
+spider – Party Potion	spike – Elixir	spirit – Party Potion
+spit – Snake Oil	sponge – Party Potion	spray – Party Potion
+spring – Snake Oil	stage – Elixir	stain – Elixir
+star – Snake Oil	statue – Party Potion	steroid – Elixir
+stew – Elixir	stick – Snake Oil	sticker – Snake Oil
+stool – Snake Oil	storm – Snake Oil	story – Snake Oil
+stove – Elixir	strap – Elixir	straw – Elixir
+street – Elixir	stress – Party Potion	string – Snake Oil
+sugar – Party Potion	suit – Snake Oil	sun – Snake Oil
+surgery – Elixir	surprise – Elixir	sushi – Elixir
+swamp – Elixir	sweat – Snake Oil	sweater – Elixir
+swing – Party Potion	switch – Elixir	sword – Snake Oil
+syrup – Elixir	table – Snake Oil	taco – Elixir
+tail – Elixir	tambourine – Elixir	tank – Snake Oil
+tape – Snake Oil	tar – Elixir	tarp – Snake Oil
+taser – Elixir	tattoo – Snake Oil	tax – Snake Oil
+team – Snake Oil	tear – Snake Oil	telephone – Elixir
+telescope – Elixir	tent – Snake Oil	test – Party Potion
+therapy – Elixir	thorn – Elixir	throat – Elixir
+throne – Elixir	ticket – Snake Oil	tickle – Party Potion
+tie – Snake Oil	tiger – Elixir	time – Snake Oil
+toe – Snake Oil	tofu – Snake Oil	toilet – Snake Oil
+tomb – Elixir	tongue – Snake Oil	tooth – Snake Oil
+torch – Party Potion	tornado – Elixir	torpedo – Party Potion
+towel – Snake Oil	tower – Elixir	toy – Snake Oil
+traffic – Snake Oil	trail – Party Potion	training – Party Potion
+trampoline – Party Potion	trap – Snake Oil	trash – Elixir
+tray – Elixir	treadmill – Elixir	treasure – Elixir
+tree – Snake Oil	trick – Elixir	trigger – Elixir
+trophy – Party Potion	truck – Snake Oil	trumpet – Party Potion
+trust – Elixir	truth – Snake Oil	tsunami – Elixir
+tub – Party Potion	tube – Elixir	tummy – Party Potion
+tumor – Elixir	tunnel – Snake Oil	turtle – Elixir
+tutu – Elixir	tuxedo – Elixir	tv – Snake Oil
+umbrella – Snake Oil	underwear – Snake Oil	unicorn – Elixir
+uniform – Party Potion	urge – Snake Oil	urinal – Elixir
+vacation – Elixir	vaccine – Elixir	vacuum – Snake Oil
+vapor – Elixir	vault – Elixir	velcro – Elixir
+vest – Snake Oil	victory – Party Potion	video – Party Potion
+vine – Elixir	virus – Snake Oil	vision – Elixir
+vitamin – Elixir	voice – Elixir	volcano – Party Potion
+vomit – Snake Oil	wagon – Elixir	wall – Snake Oil
+wand – Elixir	war – Snake Oil	water – Snake Oil
+wax – Snake Oil	web – Elixir	wheel – Snake Oil
+whip – Snake Oil	whistle – Snake Oil	wig – Snake Oil
+wind – Snake Oil	window – Snake Oil	wings – Snake Oil
+wire – Elixir	wisdom – Elixir	wish – Party Potion
+work – Snake Oil	worm – Snake Oil	yarn – Party Potion
+yawn – Snake Oil	zit – Elixir	

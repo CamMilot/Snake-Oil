@@ -1,0 +1,80 @@
+Actor – Party Potion	Alien Abductee – Elixir	
+Alien – Snake Oil	Amputee – Elixir	
+Astronaut – Party Potion	Amputee – Snake Oil	
+Astronaut – Snake Oil	Artist – Party Potion	
+Babysitter – Snake Oil	Bartender – Elixir	
+Bank Robber	Biker – Elixir	
+Beach Bum – Snake Oil	Billionaire – Snake Oil	
+Beggar – Snake Oil	Blind Date – Elixir	
+Big Foot – Elixir	Bouncer – Snake Oil	
+Bridesmaid – Elixir	Camp Counselor – Elixir	
+Bull Fighter – Elixir	Camper – Party Potion	
+Bungee Jumper – Elixir	Caveman – Snake Oil	
+Castaway – Snake Oil	Cheerleader – Snake Oil	
+Chef – Party Potion	Class Clown – Elixir	
+Coach – Snake Oil	Clown – Party Potion	
+Coal Miner – Snake Oil	Clown – Snake Oil	
+Cowboy – Snake Oil	Comedian – Elixir	
+Cupid – Elixir	Couch Potato – Snake Oil	
+Dad – Party Potion	Dictator – Snake Oil	
+Dare Devil – Elixir	Drill Sergeant – Elixir	
+Diva – Snake Oil	Dumpster Diver – Snake Oil	
+Doctor – Party Potion	Executioner – Snake Oil	
+Dog – Party Potion	Fire Fighter – Party Potion	
+Dog – Snake Oil	Fire Fighter – Snake Oil	
+Fashion Model – Snake Oil	Fortune Teller – Elixir	
+Fisherman – Party Potion	Fortune Teller – Snake Oil	
+Geek – Snake Oil	Frat Boy – Snake Oil	
+Gladiator – Elixir	Gambler – Elixir	
+Grandma – Party Potion	Gangster – Snake Oil	
+High School Dropout – Snake Oil	Ghost – Elixir	
+Hippie – Elixir	Girl Scout – Elixir	
+Hitch Hiker – Snake Oil	Grave Robber – Snake Oil	
+Hobo – Elixir	Haunted House Actor – Elixir	
+Immigrant – Elixir	High School Student – Party Potion	
+Insomniac – Snake Oil	Hostage – Snake Oil	
+Kindergartener – Snake Oil	Hunter – Snake Oil	
+Life Guard – Party Potion	Janitor – Party Potion	
+Life Guard – Snake Oil	Last Person On Earth – Snake Oil	
+Lovers – Elixir	Lawyer – Elixir	
+Lumberjack – Elixir	Little Red Ridinghood – Elixir	
+Masseuse – Elixir	Lottery Winner – Elixir	
+Missionary – Elixir	Mad Scientist – Party Potion	
+Mob Boss – Elixir	Magician – Party Potion	
+Nanny – Elixir	Monk – Elixir	
+Navy Seal – Elixir	Mortician – Snake Oil	
+Newlywed – Snake Oil	Ninja – Snake Oil	
+Paper Boy – Elixir	Nurse – Snake Oil	
+Pharaoh – Elixir	Olympic Athlete – Party Potion	
+Pirate – Snake Oil	Paparazzi – Snake Oil	
+Pizza Deliverer – Elixir	Party Animal – Elixir	
+Police Officer – Elixir	Party Host – Snake Oil	
+Police Officer – Snake Oil	Pop Singer – Party Potion	
+Politician – Snake Oil	Prisoner of War – Elixir	
+Pregnant Woman – Snake Oil	Prison Guard – Snake Oil	
+Priest – Snake Oil	Pro Wrestler – Snake Oil	
+Princess – Party Potion	Quarterback – Elixir	
+Prom Date – Snake Oil	Rioter – Elixir	
+Protester – Snake Oil	Robot – Party Potion	
+Queen – Elixir	Rock star – Snake Oil	
+Rapper – Snake Oil	Roommate – Snake Oil	
+Referee – Elixir	School Bus Driver – Party Potion	
+Rock Climber – Elixir	Soldier – Snake Oil	
+Runaway – Snake Oil	Space Colonist – Elixir	
+Santa – Snake Oil	Sports Fan – Snake Oil	
+Secret Admirer – Snake Oil	Sports Mascot – Snake Oil	
+Senior Citizen – Snake Oil	Spy – Snake Oil	
+Snowman – Party Potion	Substitute Teacher – Elixir	
+Sorority Girl – Snake Oil	Tailgater – Elixir	
+Stewardess – Elixir	Tarzan – Elixir	
+Super Hero – Snake Oil	Taxi Driver – Snake Oil	
+Surfer – Elixir	Teenager – Snake Oil	
+Teacher – Snake Oil	Tourist – Elixir	
+The President – Party Potion	Vampire – Snake Oil	
+Therapist – Elixir	Villain – Elixir	
+Toddler – Party Potion	Waitress – Party Potion	
+Treasure Hunter – Party Potion	Witch – Snake Oil	
+Tree Hugger – Snake Oil	Wizard – Party Potion	
+Trucker – Snake Oil	Zombie – Snake Oil	
+		
+
